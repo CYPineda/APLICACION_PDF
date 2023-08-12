@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PDF Viewer Proyecto</string>
+    <string name="permission_storage">Necesitas permiso de almacenamiento</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
